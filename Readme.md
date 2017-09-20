@@ -1,7 +1,7 @@
 # Личный проект «Мишка» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Alexandera](https://up.htmlacademy.ru/adaptive/12/user/384163).
-* Наставник: `Неизвестно`.
+* Наставник: `Николай Маркелов`
 
 ---
 
