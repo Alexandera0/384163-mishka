@@ -36,5 +36,13 @@
   ],
   "engines": {
     "node": "8.2"
+  },
+  "dependencies": {
+    "gulp": "latest",
+    "gulp-less": "latest",
+    "browser-sync": "latest",
+    "gulp-plumber": "latest",
+    "gulp-postcss": "latest",
+    "gulp-autoprefixer": "latest"
   }
 }
